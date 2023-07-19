@@ -1,5 +1,3 @@
-package org.example;
-
 public class Person {
     public static boolean isTeenager(int age)
     {
