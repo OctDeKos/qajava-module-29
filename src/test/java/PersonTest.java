@@ -21,8 +21,7 @@ import org.testng.annotations.Test;
 для различных возрастов, определенных в задании программиста.
  */
 
-import org.testng.Assert;
-import org.testng.annotations.Test;
+
 
 public class PersonTest {
 
